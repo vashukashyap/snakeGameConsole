@@ -25,4 +25,14 @@ Library : `Adafruit GFX Library` , `Adafruit SSD1306`
   ### Flash
   Click on the Flash Button which look like this `→`
 
+## Photos
+
+![IMG-20241214-WA0002](https://github.com/user-attachments/assets/57158c8a-ecc6-405a-8991-b217cc0f22be)
+![IMG-20241214-WA0004](https://github.com/user-attachments/assets/f397d7ec-6359-495c-a7d5-2600ec4da79d)
+![IMG-20241214-WA0005](https://github.com/user-attachments/assets/1c344116-459f-4c8a-a84b-823bd0759a95)
+
+##Videos
+
+
+
 
