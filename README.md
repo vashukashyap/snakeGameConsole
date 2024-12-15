@@ -18,7 +18,7 @@ Library : `Adafruit GFX Library` , `Adafruit SSD1306`
   D1-->Up_Button  
 
 ## Project SETUP
-  You can view hardware folder file in KICAD and firmware flder file in VSCODE just make sure you had installed the PlatformIO extension in the VSCode.
+  You can view hardware folder file in KICAD and firmware folder file in VSCODE just make sure you had installed the PlatformIO extension in the VSCode.
   On opening Firmware folder in vscode platformIO automatically detect its project and do the setup automatically.
   #### Build
   Click on the Build Button which look like this `✓`
