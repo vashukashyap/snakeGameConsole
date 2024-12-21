@@ -31,8 +31,19 @@ Library : `Adafruit GFX Library` , `Adafruit SSD1306`
 ![IMG-20241214-WA0004](https://github.com/user-attachments/assets/f397d7ec-6359-495c-a7d5-2600ec4da79d)
 ![IMG-20241214-WA0005](https://github.com/user-attachments/assets/1c344116-459f-4c8a-a84b-823bd0759a95)
 
-##Videos
+
+# Enclosure for my project is Here!...
+https://github.com/vashukashyap/sanakeGameConsoleEnclosure
+
+😊.....
+
+## Videos
 
 
+
+https://github.com/user-attachments/assets/daafca41-82c4-4b3c-846a-305e06488c9d
+
+
+https://github.com/user-attachments/assets/c5736373-c8b9-427d-92ab-c476b570b2c2
 
 
